@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KeksCraft</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+
+<!-- ================= HEADER ================= -->
+
+<header>
+
+    <div class="logo">
+        <a href="#">
+            <img src="images/logo.png" alt="Logo">
+        </a>
+    </div>
+
+    <nav>
+
+        <a href="#">Spiele</a>
+
+        <a href="#">Marketplace</a>
+
+        <a href="#">News</a>
+
+        <a href="#">Community</a>
+
+        <a href="#">Support</a>
+
+    </nav>
+
+    <div class="login">
+
+        <a href="https://example.com">
+
+            <img src="images/microsoft.svg">
+
+            Mit Microsoft anmelden
+
+        </a>
+
+    </div>
+
+</header>
+
+<!-- ================= HERO ================= -->
+
+<section class="hero">
+
+    <img src="images/hero.jpg">
+
+    <div class="overlay"></div>
+
+    <div class="hero-content">
+
+        <h1>DEIN NÄCHSTES ABENTEUER BEGINNT HIER</h1>
+
+        <p>
+
+            Entdecke neue Welten,
+            Maps,
+            Server,
+            Mods
+            und vieles mehr.
+
+        </p>
+
+        <button>Jetzt entdecken</button>
+
+    </div>
+
+</section>
+
+<!-- ================= SPIELE ================= -->
+
+<section class="games">
+
+<h2>Spiele</h2>
+
+<div class="game-grid">
+
+<div class="game">
+
+<img src="images/game1.jpg">
+
+<h3>Survival</h3>
+
+<p>Überlebe alleine oder mit Freunden.</p>
+
+</div>
+
+<div class="game">
+
+<img src="images/game2.jpg">
+
+<h3>Creative</h3>
+
+<p>Baue alles was du möchtest.</p>
+
+</div>
+
+<div class="game">
+
+<img src="images/game3.jpg">
+
+<h3>SkyBlock</h3>
+
+<p>Starte auf einer kleinen Insel.</p>
+
+</div>
+
+<div class="game">
+
+<img src="images/game4.jpg">
+
+<h3>PvP</h3>
+
+<p>Kämpfe gegen andere Spieler.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= BANNER ================= -->
+
+<section class="banner">
+
+<div class="banner-content">
+
+<h2>NEUE ABENTEUER WARTEN</h2>
+
+<p>
+
+Hol dir Maps,
+Skins,
+Mods
+und mehr.
+
+</p>
+
+<button>Marketplace öffnen</button>
+
+</div>
+
+<img src="images/banner.jpg">
+
+</section>
+
+<!-- ================= NEWS ================= -->
+
+<section class="news">
+
+<h2>Neuigkeiten</h2>
+
+<div class="news-grid">
+
+<article>
+
+<img src="images/news1.jpg">
+
+<h3>Großes Update</h3>
+
+<p>
+
+Hier kannst du später
+deine News schreiben.
+
+</p>
+
+</article>
+
+<article>
+
+<img src="images/news2.jpg">
+
+<h3>Community Event</h3>
+
+<p>
+
+Hier kommt
+eine weitere News.
+
+</p>
+
+</article>
+
+<article>
+
+<img src="images/news3.jpg">
+
+<h3>Marketplace</h3>
+
+<p>
+
+Neue Inhalte
+verfügbar.
+
+</p>
+
+</article>
+
+</div>
+
+</section>
+
+<!-- ================= TRAILER ================= -->
+
+<section class="trailer">
+
+<h2>Trailer</h2>
+
+<div class="video">
+
+<iframe
+width="900"
+height="500"
+src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+allowfullscreen>
+
+</iframe>
+
+</div>
+
+</section>
+
+<!-- ================= COMMUNITY ================= -->
+
+<section class="community">
+
+<h2>Community</h2>
+
+<p>
+
+Trete unserer Community bei.
+
+</p>
+
+<a href="#">
+
+Discord beitreten
+
+</a>
+
+</section>
+
+<!-- ================= NEWSLETTER ================= -->
+
+<section class="newsletter">
+
+<h2>Newsletter</h2>
+
+<p>
+
+Bleibe immer informiert.
+
+</p>
+
+<form>
+
+<input
+type="email"
+placeholder="E-Mail">
+
+<button>
+
+Abonnieren
+
+</button>
+
+</form>
+
+</section>
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+<div>
+
+<img src="images/logo.png">
+
+</div>
+
+<div>
+
+<a href="#">Datenschutz</a>
+
+<a href="#">Impressum</a>
+
+<a href="#">Support</a>
+
+<a href="#">Kontakt</a>
+
+</div>
+
+<p>
+
+© 2026 KeksCraft
+
+</p>
+
+</footer>
+
+</body>
+</html>
